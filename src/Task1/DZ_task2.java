@@ -1,4 +1,4 @@
-//Вывести все простые числа от 1 до 1000
+package Task1;//Вывести все простые числа от 1 до 1000
 import java.util.Scanner;
 
 public class DZ_task2 {

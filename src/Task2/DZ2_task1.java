@@ -1,3 +1,5 @@
+package Task2;
+
 import javax.management.StringValueExp;
 
 //1) Дана строка sql-запроса "select * from students where ".

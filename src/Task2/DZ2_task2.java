@@ -1,4 +1,5 @@
-import javax.print.attribute.standard.PrinterMakeAndModel;
+package Task2;
+
 import java.io.IOException;
 import java.util.Random;
 import java.util.logging.FileHandler;
